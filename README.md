@@ -1,2 +1,2 @@
 # Linux_Projects
-all projects of linus from roadmap.sh
+all projects of linux from roadmap.sh
